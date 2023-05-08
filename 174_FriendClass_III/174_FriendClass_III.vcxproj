@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{93bc6a0a-ca66-4087-95f9-afc75764f0a2}</ProjectGuid>
-    <RootNamespace>My174FriendClass3</RootNamespace>
+    <ProjectGuid>{f5c609df-9927-450d-b7ba-a60860790dbe}</ProjectGuid>
+    <RootNamespace>My174FriendClassIII</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="174_FriendClass3.cpp" />
+    <ClCompile Include="174_FriendClass_III.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
